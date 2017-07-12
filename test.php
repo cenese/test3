@@ -1,5 +1,5 @@
 <?php
 
-echo "invat GIT";
+echo "invat GIT prima modificare";
 
 ?>
